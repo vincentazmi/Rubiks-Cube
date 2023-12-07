@@ -1,4 +1,4 @@
-#A 3D Rubiks Cube in Python Pygame!
+# A 3D Rubiks Cube in Python Pygame!
 Required libraries:
 
 pygame, pyopengl
