@@ -1,0 +1,28 @@
+PLAN
+
+BUILD
+class for each cubie
+be able to multiply and change relative extend veticies 
+
+CONTROL
+mouse camera movement + selection
+- need a focus face
+impliment movement - P U B F L D
++ invesrions
+function for common movements
+- algorithms for moving a cube from one place to another
+- compound movements
+
+
+3D Space
+attribute for 3d space (X,Y,Z)
+function for finding difference of verticies
+function for finding colours surrounding cube
+intel on position of the cube
+intel on focus face
+function for rotating faces
+
+Automation
+create white cross - automatically
+create one face - why not
+then all faces yay

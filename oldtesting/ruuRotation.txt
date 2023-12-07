@@ -1,0 +1,64 @@
+ru works
+ruu doesnt yeet
+
+ruu:
+from b
+['Orange', 'Green', 'Yellow', 'Blue', 'White', 'Red'] 8
+['Orange', 'Green', 'Yellow', 'Blue', 'White', 'Red'] 17
+['Orange', 'Green', 'Yellow', 'Blue', 'White', 'Red'] 26
+to
+['Red', 'Blue', 'Yellow', 'Orange', 'White', 'Green'] 8
+['Red', 'Blue', 'Yellow', 'Orange', 'White', 'Green'] 17
+['Red', 'Blue', 'Yellow', 'Orange', 'White', 'Green'] 26
+
+
+
+from t
+['Yellow', 'White', 'Green', 'Blue', 'Orange', 'Red'] 6
+['Yellow', 'White', 'Green', 'Blue', 'Orange', 'Red'] 15
+['Yellow', 'White', 'Green', 'Blue', 'Orange', 'Red'] 24
+to
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 6
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 15
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 24
+
+
+
+from l
+['Yellow', 'White', 'Green', 'Blue', 'Orange', 'Red'] 6
+['Yellow', 'White', 'Green', 'Blue', 'Orange', 'Red'] 7
+['Orange', 'Green', 'Yellow', 'Blue', 'White', 'Red'] 8
+to
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 6
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 7
+['Red', 'Blue', 'Yellow', 'Orange', 'White', 'Green'] 8
+
+
+
+from r
+['Yellow', 'White', 'Green', 'Blue', 'Orange', 'Red'] 24
+['Yellow', 'White', 'Green', 'Blue', 'Orange', 'Red'] 25
+['Orange', 'Green', 'Yellow', 'Blue', 'White', 'Red'] 26
+to
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 24
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 25
+['Red', 'Blue', 'Yellow', 'Orange', 'White', 'Green'] 26
+
+
+
+
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 8
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 17
+['Red', 'Blue', 'Yellow', 'Orange', 'White', 'Green'] 26
+new top
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 6
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 15
+['Red', 'Blue', 'Yellow', 'Orange', 'White', 'Green'] 24
+new left
+['Red', 'Blue', 'Yellow', 'Orange', 'White', 'Green'] 6
+['Red', 'Blue', 'Yellow', 'Orange', 'White', 'Green'] 7
+['Red', 'Blue', 'Yellow', 'Orange', 'White', 'Green'] 8
+new right
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 24
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 25
+['Red', 'Blue', 'Green', 'Yellow', 'Orange', 'White'] 26

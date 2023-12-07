@@ -1,0 +1,222 @@
+R U rotation (6,9)
+
+
+bottom
+8
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+17
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+26
+['Blue', 'Red', 'Yellow', 'Green', 'White', 'Orange']
+becomes
+['Green', 'Orange', 'Yellow', 'Red', 'White', 'Blue']
+
+top
+6
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+15
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+24
+['Blue', 'Red', 'Yellow', 'Green', 'White', 'Orange']
+becomes
+['Green', 'Orange', 'Yellow', 'Red', 'White', 'Blue']
+
+left
+6
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+7
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+8
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+
+right
+24
+['Blue', 'Red', 'Yellow', 'Green', 'White', 'Orange']
+becomes
+['Green', 'Orange', 'Yellow', 'Red', 'White', 'Blue']
+25
+['Blue', 'Red', 'Yellow', 'Green', 'White', 'Orange']
+becomes
+['Green', 'Orange', 'Yellow', 'Red', 'White', 'Blue']
+26
+['Blue', 'Red', 'Yellow', 'Green', 'White', 'Orange']
+becomes
+['Green', 'Orange', 'Yellow', 'Red', 'White', 'Blue']
+
+
+
+
+
+bottom
+8 17 26
+
+top
+6 15 24
+
+left
+6 7 8
+
+right
+24 25 26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this broke
+R:
+
+U:
+
+bottom
+['Blue', 'Red',     'Green', 'White', 'Orange', 'Yellow'] 8
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+
+['Blue', 'Red',     'Green', 'White', 'Orange', 'Yellow'] 17
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+
+['Blue', 'Red',     'Yellow', 'Green', 'White', 'Orange'] 26
+becomes
+['Green', 'Orange', 'Yellow', 'Red', 'White', 'Blue']
+
+white yellow green red orange blue
+
+
+0 1 2 3 4 5
+4 2 0 3 1 5
+
+['Blue', 'Red', 'Yellow', 'Green', 'White', 'Orange'] 26
+white    yellow   green     red     orange    blue
+
+0 1 2 3 4 5
+4 2 3 1 5 0
+
+top
+['Blue', 'Red',     'Green', 'White',  'Orange', 'Yellow'] 6
+becomes
+['White', 'Yellow', 'Green', 'Red',    'Orange', 'Blue']
+
+['Blue', 'Red',     'Green', 'White',  'Orange', 'Yellow'] 15
+becomes
+['White', 'Yellow', 'Green', 'Red',    'Orange', 'Blue']
+
+['Blue', 'Red',     'Yellow', 'Green', 'White', 'Orange'] 24
+becomes
+['Green', 'Orange', 'Yellow', 'Red',   'White', 'Blue']
+
+left
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']
+becomes
+['White', 'Yellow', 'Green', 'Red', 'Orange', 'Blue']
+
+right
+['Blue', 'Red', 'Yellow', 'Green', 'White', 'Orange']
+becomes
+['Green', 'Orange', 'Yellow', 'Red', 'White', 'Blue']
+
+['Blue', 'Red', 'Yellow', 'Green', 'White', 'Orange']
+becomes
+['Green', 'Orange', 'Yellow', 'Red', 'White', 'Blue']
+
+['Blue', 'Red', 'Yellow', 'Green', 'White', 'Orange']
+becomes
+['Green', 'Orange', 'Yellow', 'Red', 'White', 'Blue']
+
+
+
+
+
+
+
+U U U U:
+
+
+bottom
+
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  8
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  17
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  26
+
+
+top
+
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  6
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  15
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  24
+
+
+left
+
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  6
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  7
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  8
+
+
+right
+
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  24
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  25
+
+['Blue', 'Red', 'Green', 'White', 'Orange', 'Yellow']  26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

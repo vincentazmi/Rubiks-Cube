@@ -1,0 +1,19 @@
+UNDERSTANDING MATRICES
+
+YESSSSSSSSSSSSSSSS
+
+pushmatrix = copied matrix 0 creating matrix 1
+rotate/transform = set the change
+draw objects change is to be applied to
+push matrix = copied matrix 1 including its rotation
+rotate1/transform1 = set more change
+draw objects both changes is to be applied to
+etc etc
+
+FOR ME
+
+push matrix
+draw 1-17
+rotate
+draw 18-26
+flip display

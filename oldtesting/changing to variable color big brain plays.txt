@@ -1,0 +1,22 @@
+self.cubie.setVert(i,x,y,z)
+self.cubie.draw(cube,self.cubies[cube]) # self.cubies = dict
+
+COLORS = 
+WHITE RED  GREEN BLUE  YELLOW ORANGE
+BACK  LEFT FRONT RIGHT TOP    BOTTOM
+
+NOTATION:
+F R U L B D
+
+<-------------^
+|      U      |
+|    ^--->    |
+| L  |F/B|  R |
+|    <---V    |
+|      D      | 
+V------------>|
+
+
+R =
+BACK   LEFT FRONT RIGHT  TOP  BOTTOM
+BOTTOM -    TOP   rotate BACK FRONT
