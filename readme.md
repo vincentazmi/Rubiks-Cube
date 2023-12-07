@@ -1,7 +1,9 @@
+#A 3D Rubiks Cube in Python Pygame!
 Required libraries:
 
 pygame, pyopengl
 
+# Controls:
 The controls are using the numpad only at the moment.
 7,9 rotates the top row left and right
 1,4 rotates the left column up and down
