@@ -389,8 +389,16 @@ class Cube():
         pygame.quit()
 
 def main():
-    cube = Cube(rand=20) #create a 3x3x3 cube
-##    cube = Cube()
+    try:
+        rand = int(input("Enter number of random movements (0 for normal gameplay): "))
+    except Exception as e:
+        print("Please enter a number")
+        raise e
+    if rand == 0:
+        cube = Cube()
+    else:
+        cube = Cube(rand=rand) #create a 3x3x3 cube
+    
     cube.draw()
     cube.main()
 main()
